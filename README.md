@@ -3,5 +3,6 @@
 ### Запуск програми
 
 ```bash
-java NadprostiChysla.java 
+javac NadprostiChysla.java
+java NadprostiChysla
 ```
